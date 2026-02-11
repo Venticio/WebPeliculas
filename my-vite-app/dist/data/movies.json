@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "description": "Dos hombres encarcelados forjan una profunda amistad mientras buscan esperanza y redención.",
+    "duration": 142,
+    "director": "Frank Darabont"
+  },
+  {
+    "id": "2",
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime",
+    "rating": 9.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "description": "La historia de la poderosa familia criminal Corleone y su lucha por mantener el control.",
+    "duration": 175,
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "Batman enfrenta al Joker, un criminal caótico que amenaza con destruir Gotham.",
+    "duration": 152,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "4",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime",
+    "rating": 8.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "description": "Historias entrelazadas de criminales en Los Ángeles llenas de humor negro y violencia.",
+    "duration": 154,
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": "5",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "description": "La vida extraordinaria de Forrest, un hombre con gran corazón que presencia momentos históricos.",
+    "duration": 142,
+    "director": "Robert Zemeckis"
+  },
+  {
+    "id": "6",
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "description": "Un ladrón especializado en robar secretos a través de los sueños recibe una misión imposible.",
+    "duration": 148,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "7",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+    "duration": 169,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "8",
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+    "description": "Un hacker descubre la verdad sobre su realidad y su papel en la guerra contra las máquinas.",
+    "duration": 136,
+    "director": "The Wachowskis"
+  }
+]
